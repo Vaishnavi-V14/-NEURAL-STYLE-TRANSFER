@@ -2,15 +2,21 @@
 
 
 **Name**: Vaishnavi V
+
 **Company**: CODTECH IT SOLUTIONS
+
 **ID**: CT08DMC
+
 **Domain**: Artificial Intelligence
+
 **Duration**: December to January 2025
+
 **Mentor**: SRAVANI
 
 
 
 Overview of the project
+
 
 Project:  NEURAL-STYLE-TRANSFER
 
@@ -20,6 +26,7 @@ Objective
 
 
 To implement a neural style transfer system that applies artistic styles from reference images to content images, creating visually appealing artworks by blending the content and style seamlessly.
+
 
 
 Key Activities
@@ -45,6 +52,7 @@ OUTPUT
 
 
 
+![Screenshot 2025-01-05 212408](https://github.com/user-attachments/assets/12fccb46-90d6-4832-be4d-702211822528)
 
 
 
