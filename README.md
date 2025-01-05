@@ -32,9 +32,13 @@ To implement a neural style transfer system that applies artistic styles from re
 Key Activities
 
 •	Data Preparation: Collect and preprocess content and style images.
+
 •	Optimization: Iteratively update the content image to minimize the combined loss.
+
 •	Model Integration: Implement algorithms for blending content and style features effectively. 
+
 •	Evaluation: Assess output quality visually or using style transfer metrics.
+
 •	Deployment: Create tools or applications for users to upload images and apply artistic styles.
 
 
@@ -42,8 +46,11 @@ Key Activities
 Technology Used
 
 • Image Processing Libraries: OpenCV, PIL (Pillow), or Matplotlib for image manipulation and visualization.
+
 •	Optimization Algorithms: Gradient Descent or Adam for iterative image optimization.
+
 •	Compute Acceleration: GPUs or TPUs for faster processing of deep learning tasks.
+
 •	Deployment Tools: Flask, Streamlit, or Gradio for building user-friendly interfaces.
 
 
